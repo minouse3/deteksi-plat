@@ -1,0 +1,9 @@
+image,plate_number,validity_text,validity_status,notes
+test1.jpg,F6797BB,01-2028,valid,white plate with protector
+test2.jpg,BD2541WH,09-2023,expired,black plate with glare and screws
+test3.png,B1909NRK,12-2022,expired,small cropped black plate
+test4.jpg,H4073NA,01-2023,expired,black plate close-up
+test5.jpg,B1991JO,07-2017,expired,black plate close-up
+test6.jpg,B6703WJF,07-2018,expired,black plate close-up
+test7.jpg,B889SRH,08-2027,valid,black plate with protector
+test8.jpg,B5838TOO,07-2028,valid,white plate black font

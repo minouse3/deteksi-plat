@@ -1,0 +1,11 @@
+services:
+  web-app:
+    build: .
+    ports:
+      - "7860:7860"
+    volumes:
+      - ./models:/app/models
+      - ./outputs:/app/outputs
+    restart: always
+    environment:
+      - MPLCONFIGDIR=/tmp/matplotlib

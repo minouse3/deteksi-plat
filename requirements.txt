@@ -1,0 +1,16 @@
+# Core Recognition & Web App
+ultralytics
+opencv-python
+numpy
+scikit-learn
+joblib
+
+# Data Preparation & Evaluation
+pandas
+matplotlib
+pyyaml
+tqdm
+scikit-image
+
+# Development & Testing
+pytest
