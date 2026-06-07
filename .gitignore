@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.pytest_cache/
+
+# Datasets
+# We ignore everything inside datasets but keep the folder
+datasets/*
+!datasets/.gitkeep
+
+# Models
+# We ignore model weights but keep the directory
+models/*
+!models/.gitkeep
+
+# Outputs
+# We ignore all test outputs but keep the directory structure
+outputs/*
+!outputs/.gitkeep
+
+# Other large or local files
+tests/fixtures/
+kaggle_raw/
+runs/
+.matplotlib/
+*.pt
+*.joblib
+*.pdf
+.DS_Store
+.vscode/
+.idea/
+.env
+.dockerignore
